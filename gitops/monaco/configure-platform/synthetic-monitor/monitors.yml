@@ -3,7 +3,7 @@ configs:
   config:
     name: "backstage | platform | healthcheck"
     parameters:
-      baseUrl: "https://legendary-doodle-7qr6gxg5pv3xp7r-BACKSTAGE_PORT_NUMBER_PLACEHOLDER.GITHUB_CODESPACES_PORT_FORWARDING_DOMAIN_PLACEHOLDER"
+      baseUrl: "https://legendary-doodle-7qr6gxg5pv3xp7r-30105.GITHUB_CODESPACES_PORT_FORWARDING_DOMAIN_PLACEHOLDER"
       frequencyMin: "1"
       enabled: "true"
       geoLocation: "GEOLOCATION-45AB48D9D6925ECC"
